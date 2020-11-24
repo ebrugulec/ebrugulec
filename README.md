@@ -2,16 +2,16 @@
 </h1>
 
 ### A little about me...
-I'm a **Software Engineer at [Trendyol](https://github.com/Trendyol)** I'm a *Tech Enthusiast* passionate about learning and working with new technologies. I like write, create, and build stuff.<br/>
+I'm a **Software Engineer at [Trendyol](https://github.com/Trendyol)** I'm a *Tech Enthusiast* passionate about learning and working with new technologies. I like to create, write, and build stuff.<br/>
 
 <img align="right" alt="GIF" src="https://github.com/ebrugulec/ebrugulec/blob/master/software-engineer.gif" width="450" height="320" />
 
 ### A Few Quick Facts
-- 🔭 I’m currently working with Nodejs, Express, React,
+- 🔭 &nbsp; I’m currently working with Nodejs, Express, React,
 Graphql, Mongodb, Javascript, Java etc.
-- 🌱 I’m currently learning Full Stack Development.
-- 😄 Pronouns: developer, dancer and day dreamer
-- 💬 Ask me about anything, I am happy to help
+- 🌱 &nbsp; I’m currently learning Full Stack Development.
+- 😄 &nbsp; Pronouns: developer, dancer and day dreamer
+- 💬 &nbsp; Ask me about anything, I am happy to help
 
 ### Projects and Dev Stuffs:
 
@@ -20,7 +20,7 @@ Graphql, Mongodb, Javascript, Java etc.
 </details>
 
 <details>
-  <summary><b>👩‍💻Open Source Projects</b></summary>
+  <summary><b>👩‍💻 &nbsp; Open Source Projects</b></summary>
 </details>
 
 ### So, let's meet!
