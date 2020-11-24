@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...
-I'm a **Software Engineer** at **[Trendyol](https://github.com/Trendyol)**. I'm a *Tech Enthusiast* passionate about learning and working with new technologies. I like to create, write, and build stuff.<br/>
+I'm a **Software Engineer** at **[Trendyol](https://github.com/Trendyol)**. I'm a *Tech Enthusiast* passionate about learning and working with new technologies.<br/>
 
 <img align="right" alt="GIF" src="https://github.com/ebrugulec/ebrugulec/blob/master/software-engineer.gif" width="450" height="320" />
 
