@@ -6,14 +6,14 @@ I'm a **Software Engineer** at **[Trendyol](https://github.com/Trendyol)**. I'm 
 
 <img align="right" alt="GIF" src="https://github.com/ebrugulec/ebrugulec/blob/master/software-engineer.gif" width="450" height="320" />
 
-### A Few Quick Facts
+### A few quick facts
 - 🔭 &nbsp; I’m currently working with Nodejs, Express, React,
 Graphql, Mongodb, Javascript, Java etc.
 - 🌱 &nbsp; I’m currently learning Full Stack Development.
 - 😄 &nbsp; Pronouns: developer, dancer and day dreamer
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
-### Projects and Dev Stuffs:
+### Projects and dev stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
