@@ -22,4 +22,4 @@ Graphql, Mongodb, Javascript, Java etc.
 </details>
 
 ### So, let's meet!
-You can check out my projects and also you can find me on [Linkedin](https://tr.linkedin.com/in/glcebru) or [Superpeer](https://superpeer.com/ebrugulec)
+You can check out my projects and also you can find me on [Linkedin](https://tr.linkedin.com/in/glcebru)
