@@ -11,15 +11,5 @@ Graphql, Mongodb, Javascript, Java etc.
 - 😄 &nbsp; Pronouns: developer, dancer and day dreamer
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
-### Projects and dev stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-</details>
-
-<details>
-  <summary><b>👩‍💻 &nbsp; Open Source Projects</b></summary>
-</details>
-
 ### So, let's meet!
-You can check out my projects and also you can find me on [Linkedin](https://tr.linkedin.com/in/glcebru)
+You can check out my projects and also you can find me on [Linkedin](https://tr.linkedin.com/in/glcebru) or [Superpeer](https://superpeer.com/ebrugulec)
